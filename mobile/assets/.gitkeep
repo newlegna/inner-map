@@ -1,0 +1,10 @@
+# Placeholder for app icons and splash screens
+#
+# Required assets:
+# - icon.png (1024x1024)
+# - splash.png (2048x2048 recommended)
+# - adaptive-icon.png (1024x1024, for Android)
+# - favicon.png (48x48 or higher)
+#
+# For now, Expo will use default placeholders during development.
+# Before production build, replace these with your actual brand assets.

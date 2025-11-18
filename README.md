@@ -1,6 +1,15 @@
-# Inner Map - MVP
+# Inner Map
 
 A unified self-insight and coaching platform that combines **Astrology**, **Human Design**, **MBTI**, and **Enneagram** into one integrated experience.
+
+## 📱 Two Versions Available
+
+This repository contains both **Web** and **Mobile** versions:
+
+- **Web App** (Next.js) - Full-featured with AI integration → [Setup Guide](#setup-instructions)
+- **Mobile App** (React Native + Expo) - Native mobile experience → [Mobile README](./mobile/README.md)
+
+Both versions share the same Supabase backend and user accounts!
 
 ## Features
 
